@@ -2,7 +2,10 @@ RENCANA KONTENT RENO
 javascript
 *ES6
 *framework javascript
+^vue
 -struktur data dasar
 php
+^LARAVEL
 codeigniter
 postman
+python
