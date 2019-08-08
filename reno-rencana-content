@@ -4,6 +4,7 @@ javascript
 *framework javascrip
 ^vue
 ^react
+^angular
 -struktur data dasar
 php
 ^LARAVEL
