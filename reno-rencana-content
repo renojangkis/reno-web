@@ -1,11 +1,12 @@
 RENCANA KONTENT RENO
 javascript
 *ES6
-*framework javascript
--angular
--react
-
+*framework javascrip
+^vue
+^react
+-struktur data dasar
 php
-^laravel
+^LARAVEL
 codeigniter
 postman
+python
