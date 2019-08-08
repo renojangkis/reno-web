@@ -2,3 +2,5 @@ reno web
 -membuat web sendiri 
 -desain web sendiri
 -membuat web untuk belajar 
+-membuat website toko
+-ingin sekali mengerti tentang web desai ui dan ux
